@@ -5,7 +5,7 @@ This section includes some SQL Scripts for Microsoft SQL Server.
 
 2.Extract numebr only functions: extract only number from a string value.
 
-3.interval time cursor: select the continue value in column and link together. [Click for Detail]  
+3.interval time cursor: select the continue value in column and link together. [Click for Detail](https://github.com/malcolmyang25/ms_sql_script/blob/main/interval_time_cursor.md)  
 
 4.date mapping: date mapping table is commonly used in Data Warehouse. This script is used to generate the date mapping tables.
 Table format listed below:
