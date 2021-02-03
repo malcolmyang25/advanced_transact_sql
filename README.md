@@ -1,4 +1,4 @@
-# ms_sql_script
+# SQL Scripts for Microsoft SQL Server
 This section includes some SQL Scripts for Microsoft SQL Server.
 
 1.columns to row xml: using xml function to grouply combine string value in columns into single row.
