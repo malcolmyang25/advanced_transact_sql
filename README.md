@@ -20,7 +20,9 @@ This section includes some SQL Scripts for Microsoft SQL Server.
 |2       |2017-01-02|2017-01-03|
 |2       |2017-01-03|2017-01-04|
 |2       |2017-01-04|2017-01-05|
+
 Result:
+
 |staff_id|start_date|end_date  |
 |--------|----------|----------|
 |1       |2016-01-01|2016-01-06|
