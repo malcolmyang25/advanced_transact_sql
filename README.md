@@ -5,10 +5,10 @@ This section includes some SQL Scripts for Microsoft SQL Server.
 
 2.[Extract numebr only functions](https://github.com/malcolmyang25/ms_sql_script/blob/main/extract_number_only_function.sql): extract only number from a string value.
 
-3.Interval time cursor: select the continue value in column and link together. [Click for Detail](https://github.com/malcolmyang25/ms_sql_script/blob/main/interval_time_cursor.md) 
+3.[Interval time cursor](https://github.com/malcolmyang25/ms_sql_script/blob/main/interval_time_cursor.md): select the continue value in column and link together. 
 
-4.date mapping: use to generate the date mapping tables.[Click for Detail](https://github.com/malcolmyang25/ms_sql_script/blob/main/interval_time_cursor.md)  
+4.[Date mapping](https://github.com/malcolmyang25/ms_sql_script/blob/main/interval_time_cursor.md): use to generate the date mapping tables.
 
-5.ROLLUP and CUBE sum up [Click for Detail](https://github.com/malcolmyang25/ms_sql_script/blob/main/ROLL%20and%20CUBE%20sum%20up.md)
+5.[ROLLUP and CUBE sum up](https://github.com/malcolmyang25/ms_sql_script/blob/main/ROLL%20and%20CUBE%20sum%20up.md)
 
 
