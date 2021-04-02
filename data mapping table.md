@@ -3,7 +3,7 @@ Date Mapping Table
 
 
 Date mapping table is commonly used in Data Warehouse. This script is used to generate the date mapping tables.  
-[Code](https://github.com/malcolmyang25/ms_sql_script/blob/main/data%20mapping%20table%20script.sql)
+[Click to view code](https://github.com/malcolmyang25/ms_sql_script/blob/main/data%20mapping%20table%20script.sql)
 
 ---
 Table format listed below:
