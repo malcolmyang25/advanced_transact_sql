@@ -1,6 +1,6 @@
 ROLL and CUBE sum up
 ===
-
+[Click to view code](https://github.com/malcolmyang25/ms_sql_script/blob/main/ROLLUP%20and%20CUBE%20sum%20up.sql)
 ROLLUP and CUBE are simple extensions to the SELECT statement's GROUP BY clause.  
 ROLLUP creates subtotals at any level of aggregation needed, from the most detailed up to a grand total.  
 CUBE is an extension similar to ROLLUP , enabling a single statement to calculate all possible combinations of subtotals.
