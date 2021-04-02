@@ -1,7 +1,7 @@
 
-**SQL Server Cursor Example**
+**SQL Server Cursor Example** 
 ===
-  
+[Click to view code](https://github.com/malcolmyang25/ms_sql_script/blob/main/interval_time_cursor.sql)  
 A database cursor is an object that enables traversal over the rows of a result set. It allows you to process individual row returned by a query. This script is mainly used to select the continue value in column and link together.   
 
 This source list daily records, and this script will pick the cotinue period for each staff.
