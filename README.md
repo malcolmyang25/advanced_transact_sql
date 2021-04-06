@@ -11,6 +11,6 @@ This section includes some SQL Scripts for Microsoft SQL Server.
 
 5.[ROLLUP and CUBE sum up](https://github.com/malcolmyang25/ms_sql_script/blob/main/ROLL%20and%20CUBE%20sum%20up.md)
 
-6.[JSON and Table convert](https://github.com/malcolmyang25/advanced_transact_sql/blob/main/mssql_json_table.sql)
+6.[JSON and Table convert](https://github.com/malcolmyang25/advanced_transact_sql/blob/main/mssql_json_table.sql): convert JSON to SQL table, export SQL table to JSON format.
 
 
