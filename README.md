@@ -13,4 +13,6 @@ This section includes some SQL Scripts for Microsoft SQL Server.
 
 6.[JSON and Table convert](https://github.com/malcolmyang25/advanced_transact_sql/blob/main/mssql_json_table.sql): convert JSON to SQL table, export SQL table to JSON format.
 
+7.[Running Average and Sum](https://github.com/malcolmyang25/advanced_transact_sql/blob/main/running_average_sum.sql): calculate sql running average and sum
+
 
