@@ -15,4 +15,4 @@ This section includes some SQL Scripts for Microsoft SQL Server.
 
 7.[Running Average and Sum](https://github.com/malcolmyang25/advanced_transact_sql/blob/main/running_average_sum.sql): calculate sql running average and sum
 
-
+8.[Schema Check](https://github.com/malcolmyang25/advanced_transact_sql/blob/main/info_schema.sql): check the all table(views) and columns of the schema
