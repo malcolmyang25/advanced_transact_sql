@@ -56,6 +56,7 @@ BEGIN
     values (@next_calendar_date,@next_calendar_year,@next_calendar_month,@next_monthstart,@next_monthend,
                                         @next_calendarquarter,@next_quarterstart,@next_quarterend,
                                       @next_fiscalyear,@next_fiscalquarter);
+    SET @loop_startdate = DATEADD(day,1,@loop_startdate);
 END
 GO
 
